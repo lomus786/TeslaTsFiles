@@ -1,0 +1,22 @@
+Welcome to Tesla 
+News read kariye aur usi hisaab se kaam kariye — aapka kaam 99% ho jayega. Agar aap apne hisaab se karenge to dikkat aayegi.
+
+Ab App App Login Used kr Sakte Hai
+
+Sabse pehle APK se token generate kijiye, fir “Check Token” par jakar apna token get kijiye. Jab Yes/No ka option aaye, to No select kijiye. Uske baad apna form load kijiye aur fir login kijiye.
+Bina token ke login karenge to booking 100% fail hogi.
+Yeh sab tareeke bahut trials ke baad mile hain, isliye aapko bataya ja raha hai.
+
+Booking 99% confirm karne ke liye, 59 minute par login kijiye, lekin login se 5 minute pehle apna internet restart kar dijiye.
+Apna 52 minute par token bana lijiye aur token sirf login karke, train search karke, availability check karke, wapas home par click karke apni user ID daaliye.
+
+4 token se zyada 2 form ke liye token mat bhejiye, zyada token bhejne se form slow ho jata hai.
+Mobile data se booking kijiye to speed fast rahegi, bas net hamesha restart karte rahiye.
+AC aur SL booking ke liye alag-alag IP use kijiye.
+
+Agar APK se token banate time IP block ho gaya, to aapka token corrupt ho gaya.
+Token hamesha new IRCTC ID se banaiye.
+AC me jis ID se token banaya hai, usi ID se SL me token mat banaiye.
+Aur jab IP block ho jaye to server par token mat bhejiye.
+APK ko clean kijiye, internet band karke fir se start kijiye,
+fir new ID se token banaiye aur bhejiye.
