@@ -1,15 +1,20 @@
-19 Feb 2026
+Important Update Regarding UPI & QR Issue
 
+Abhi Ipay UPI aur Ipay QR dono me technical issue chal raha hai.
+Is wajah se transactions properly process nahi ho pa rahe hain.
 
-Freecharge Bypass Update Done Ab App new Bypass Kar Sakte he
+Filhal UPI payment ke liye niche diye gaye options use kare:
 
+Cashfree UPI
 
-Booking hamesha sirf ek login se mat kare. Web aur app dono ka use kare isse aapka booking chance 100% ke kareeb ho jayega
+BHIM UPI
 
-Jaise ek IP par maximum 3 web login kare aur 1 app login kare Isse zyada na kare. Har 1 app ke liye kam se kam 6 token bheje Agar zyada token bhejenge to aur bhi achha rahega aur booking ka chance badh jayega
+Razorpay UPI
 
-Web login 3 hi rakhe. Agar koi block hota hai to bhi baaki se kaam chalta rahega Web me jo ID aur IP use kare use usi din kisi aur booking me dobara use na kare Agar wahi ID dobara use karni ho to app me kar sakte hai lekin web me nahi
+Joppay UPI
 
-Jo booking app me kar chuke hai use dobara app me na kare us case me web ka use kare
+UPI server aur QR gateway me issue chal raha hai, isliye temporary alternative UPI options ka use kare jab tak problem resolve nahi ho jati.
 
-Har booking se pehle net aur system ko restart kar de Isse sab kuch fresh ho jayega aur booking ka chance aur zyada ho jayega
+Jaise hi server aur gateway issue fix hoga, normal system fir se resume kar diya jayega.
+
+Dhanyawaad for your cooperation
