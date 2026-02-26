@@ -1,22 +1,15 @@
-Important Update Regarding UPI & QR Issue
+Important Update Regarding Web & App
 
-APP login Used Kr rhe he to srif old token used kre beter responce me testing token na used krye
 
-Abhi Ipay UPI aur Ipay QR dono me technical issue chal raha hai.
-Is wajah se transactions properly process nahi ho pa rahe hain.
+Agar aapke paas app aur web dono login available hain to sirf web use karna sahi nahi hai
 
-Filhal UPI payment ke liye niche diye gaye options use kare:
+Sirf web use karne se booking ka chance kam ho jata hai Market me sab log jante hain ki web se zyada fast app login kaam karta hai
 
-PAYUPIJUSTPAY
+Kal web me issue aaya tha lekin app login ne bahut accha kaam kiya Jinhone app login use kiya unka form successfully ban gaya
 
-Cashfree UPI
+Isliye aap sabhi se request hai ki Sirf web par depend na rahein Hamesha app login use karna start karein
 
-BHIM UPI
-
-Razorpay UPI
-
-UPI server aur QR gateway me issue chal raha hai, isliye temporary alternative UPI options ka use kare jab tak problem resolve nahi ho jati.
-
-Jaise hi server aur gateway issue fix hoga, normal system fir se resume kar diya jayega.
+Best result ke liye app + web mix login karein Agar aap serious booking chahte hain to app login ko priority dein
+App zyada stable aur fast response de raha hai Ab se web ke saath saath app login zarur use karein
 
 Dhanyawaad for your cooperation
