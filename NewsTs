@@ -1,15 +1,5 @@
 Important Update Regarding Web & App
 
-Web login use na kare usme update hai Usko use karne se aapka IP block ho sakta hai Sirf app login use kare App login me ek IP par sirf ek hi login kare Agar aapko zyada form login karna hai to uske liye alag slot IP use karna padega
-
-Token banate waqt kuch baaton ka dhyan rakhe Jab APK open kare to spoof par jaakar Generate All par click kare phir APK restart kare aur uske baad token banaye Token hamesha us network se banaye jisse aap booking nahi karne wale ho
-
-Agar zyada form lagana hai to ek baar payment page tak le jaye Ek baar me 8 se zyada token mat banaye aur unko send kare Uske baad spoof par jaakar Generate All kare phir APK ko fully close kare aur mobile net band kar de 1 minute baad net start kare aur same process follow kare
-
-Agar aapke paas multiple mobile phone hai to ek app login window ke liye ek phone se token banaye. Token banate waqt hamesha alag-alag ID use kare. Ek window login ke liye minimum 8 token rakhe. Agar aapne 8 token liye aur 2 window login kar diya to chances zyada hoga ki ek ID block ho jaye aur dusra slow chale Isliye 1 login ke liye 8 token hi use kare
-
-Token kaise banana hai aur fast booking kaise karni hai, sab bataya ja chuka hai In sab baaton ka dhyan rakhe aur isi hisaab se kaam kare to 100% booking hoga
-
-Hamesha booking ke baad apna broadband ya mobile internet band kare aur 1 minute baad open kare System ko bhi din me 1 baar restart kare. Agar ek din me ID login kar chuke hai to dubara login na kare. Faltu testing na kare kyunki isse IP block hone ka chance badh jata hai Booking start karne se pehle hamesha net aur PC restart kar liya kare
+latest token server 1 pr he and old token with capture wala server 2 pr he jisko jo used krna ho used kr sakta he
 
 Dhanyawaad for your cooperation
