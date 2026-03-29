@@ -1,11 +1,14 @@
-Important Update for All Users
+Important Guidelines for Token Generation
 
+Kripya dhyan dein ki ek mobile ek IRCTC ID aur ek network IP se 10 se zyada token generate na karein
 
-Unable to process current request agar kisi user ki ID par aa raha hai aur password change karne ke baad bhi same issue aa raha hai to us ID ko kam se kam 1 week ke liye use na karein
+Agar aap ek window login kar rahe hain to minimum 10 tokens hona zaruri hai. Isliye apne login aur token generation ko isi hisaab se manage karein
 
-Aisa isliye hota hai kyunki IRCTC system us ID ko bot activity ke liye verify karke temporarily block kar deta hai Isi wajah se same ID par baar baar yeh issue aata rehta hai
+Agar aapke paas multiple mobiles hain to alag-alag devices se tokens generate karke send karein Token banate samay hamesha network ko off on karke process karein
 
-Kripya is baat ka dhyan rakhein taaki future me kisi bhi prakar ki problem na ho
+Saath hi IRCTC ID ko regular interval par change karte rahein taaki process smooth bana rahe
+
+Kripya in guidelines ko strictly follow karein for better performance
 
 Latest News & Updates
 
