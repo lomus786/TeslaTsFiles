@@ -1,13 +1,7 @@
 Important Booking Update:
 
-Confirm ticket ke liye proper login process follow karna zaruri hai
-Manual login Chrome aur Edge complete karke net restart karein phir Web aur Web3 login karein
-
-Har 10–15 tokens par 1 App login karein Dusre App login ke liye extra tokens hone chahiye
-
-Same IP aur IRCTC ID repeat na karein har booking me new ID aur new IP use karein
-
-APK use karte waqt
-Booking se pehle device ko randomize karein net OFF aur ON karein phir login karke token banayein
-
-Sahi process follow karenge to login issue kam hoga aur booking chances badhenge
+HMESA baar baar login try karne se testing band ho jata hai kyunki wo IRCTC server call hota hai jisse aapka IP block ho sakta hai Isliye aisa mat karein
+Jab booking karni ho tabhi direct login karein. Aur hamesha login se pehle fresh IP use karein kyunki used IP par login issue aayega
+Aur haan, aisi ID use karein jo 24 ghante me ek baar bhi use na hui ho Jo ID baar baar use hoti hai wo properly kaam nahi karegi
+9:30 ke time par aap manual Chrome aur Edge ka process kar lijiye saath me Web Web3 aur App teeno par login karein Agar aapko confirm booking chahiye to sirf ek login par depend mat karein
+Login karna ho to 45 ya 46 minut par karein nahi to 54 ya 55 minut par try karein Iske alawa kisi aur time par login karenge to booking hone ke chances bahut kam hain, isliye uske baare me sochiye bhi mat
