@@ -1,7 +1,15 @@
 Important Booking Update:
 
-HMESA baar baar login try karne se testing band ho jata hai kyunki wo IRCTC server call hota hai jisse aapka IP block ho sakta hai Isliye aisa mat karein
-Jab booking karni ho tabhi direct login karein. Aur hamesha login se pehle fresh IP use karein kyunki used IP par login issue aayega
-Aur haan, aisi ID use karein jo 24 ghante me ek baar bhi use na hui ho Jo ID baar baar use hoti hai wo properly kaam nahi karegi
-9:30 ke time par aap manual Chrome aur Edge ka process kar lijiye saath me Web Web3 aur App teeno par login karein Agar aapko confirm booking chahiye to sirf ek login par depend mat karein
-Login karna ho to 45 ya 46 minut par karein nahi to 54 ya 55 minut par try karein Iske alawa kisi aur time par login karenge to booking hone ke chances bahut kam hain, isliye uske baare me sochiye bhi mat
+iPay me payment request kai baar receive nahi hota hai isliye aap log Pay10 UPI ya Razorpay UPI ka use karein
+
+Apne bypass me jaakar apna gateway in dono me swap kar lein aur fir in dono gateways ko bypass me use kar sakte hain for smoother payments
+
+Saath hi jis ID me Service Unavailable issue aa raha hai us ID ko bilkul use na karein us ID me permanent issue hai
+
+Login timing ka dhyan rakhein
+Agar aap 45 se 46 ke beech login kar lete hain to best hai agar us time par login nahi ho paata to fir 58 par login karein
+Saath hi login se pehle free time me Web aur Web3 login ek baar zarur kar lein
+
+Important
+Login karne se pehle 9:30 tak manual process complete kar lein 9:30 ke baad manual process karne par issue aayega Ye best timing hai
+Manual process din me sirf ek baar hi karein baar baar karne ki zarurat nahi hai
