@@ -1,6 +1,10 @@
 Important Booking Update:
 
-App login update ho chuka hai, aur web login me aaj testing chal rahi hai. Kal web login ka bhi update aap sab ko mil jayega
+Web login update ho chuka hai lekin App sab log sirf App par depend na rahein app ke saath saath web login bhi use karein
+
+Web login me 2 options available hain Web3 aur Web dono ko use karna hai
+
+Agar browser login ke time IP block dikha raha hai to turant us browser ka manual process dubara kar lijiye phir retry karein issue nahi aayega
 
 
 iPay me payment request kai baar receive nahi hota hai isliye aap log Pay10 UPI ya Razorpay UPI ka use karein
