@@ -1,18 +1,13 @@
 Important Booking Update:
 
-Web login process manual krna pdega login pr click kr ke chor dijiye, auto fill kr dega password aur id agar cursor hila dege to sirf password fill hoga
-
-uske bad signin apko manual krna he and id manual bhi fill krna pr sakta he and web3 me automatic hoga
- 
-Jo bhi apka upi he usko delete kr ke new save kre q ki detabase me change kiya gya he
-
-web2 login start... ya web3 login start... likha ho to iska matlab hai ki wo window login hoga aur ye 58 minut se start hoga
-
-chrome aur edge ka manual process ek din pahle raat 10 baje se subah 7:25 tak kar le. uske baad pura din aaram se use kare
-
-
-
-
-Jo user in steps ko properly follow karega uski booking smooth aur successful hone ke chances bahut zyada rahenge
-
-iPay me payment request kai baar receive nahi hota hai isliye aap log Pay10 UPI ya Razorpay UPI ka use karein
+Web3 aur Web login ho raha ho to Web4 TB use na kare. Sirf jab Web/Web3 login na ho tabhi Web4 use kare
+Token ko booking time se lagbhag 15 minute pahle hi GET kare. Bahot pahle GET karne se token expire/delete ho sakta he aur booking fail ho sakta he
+Web3 token har booking me lagbhag 40 minute pahle hi banaiye. Last minute token banane se proper work nahi karega
+Web login users 46 minute par login karke token banaye aur payment page open rehne dijiye
+App + Web login dono har PC me jarur use kare
+Token banane se pahle APK open kare Device Randomize/Spoof kare Net restart kare Fir login aur token process start kare
+Availability check karte waqt 4-5 bar alag-alag availability par click kare aur har check ke baad 1 second hold kare
+Agar Client IP issue aaye Turant device spoof net restart kare Dusre ID se login kare Aise token ko server par send na kare
+Ticket section se latest extension download karke wahi use kare
+15 May ka new token upload kiya gaya he un users ke liye jinko old token me IP Block ya login issue aa raha tha ye teligram group me milega
+Bina Randomized Device ON kiye login work nahi karega
