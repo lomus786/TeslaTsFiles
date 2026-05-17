@@ -1,13 +1,7 @@
 Important Booking Update:
 
-Web3 aur Web login ho raha ho to Web4 TB use na kare. Sirf jab Web/Web3 login na ho tabhi Web4 use kare
-Token ko booking time se lagbhag 15 minute pahle hi GET kare. Bahot pahle GET karne se token expire/delete ho sakta he aur booking fail ho sakta he
-Web3 token har booking me lagbhag 40 minute pahle hi banaiye. Last minute token banane se proper work nahi karega
-Web login users 46 minute par login karke token banaye aur payment page open rehne dijiye
-App + Web login dono har PC me jarur use kare
-Token banane se pahle APK open kare Device Randomize/Spoof kare Net restart kare Fir login aur token process start kare
-Availability check karte waqt 4-5 bar alag-alag availability par click kare aur har check ke baad 1 second hold kare
-Agar Client IP issue aaye Turant device spoof net restart kare Dusre ID se login kare Aise token ko server par send na kare
-Ticket section se latest extension download karke wahi use kare
-15 May ka new token upload kiya gaya he un users ke liye jinko old token me IP Block ya login issue aa raha tha ye teligram group me milega
-Bina Randomized Device ON kiye login work nahi karega
+Web3 ka manual token har booking se lagbhag 40 minute pahle daily banana jaruri he. Aur Web ka Uske baad booking time se exact 15 minute pahle, matlab agar booking 10 baje ki he to 9:45 par manual process start kariye.
+
+Jab token successfully GET ho jaey, uske baad us manual window ko close na kariye, usko open hi rhne dijiye aur fir booking kariye. AC ho ya SL, dono booking se pahle daily manual process karna compulsory he. Agar aap ye process properly follow karte he to IP block hone ya kisi bhi step par rukne ka issue nahi aayega.
+
+Dhyan rahe, Web4 login ko direct use na kariye. Web4 login sirf tab use kariye jab Web aur Web3 login na ho. Agar aap pahle se Web4 use karege to booking fail ho sakta he ya booking properly nahi hoga
