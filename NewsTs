@@ -1,11 +1,14 @@
 Important Booking Update
 
-Dear Gadar Users
+Good morning
 
-Jise sirf App Login use karna hai, wo Token folder me jaaye. Wahan se App Login.exe download kare aur usi folder me apna database paste kare.
+Kuch users ke system me server se ChromeDriver 0 KB ka download ho raha hai. Agar aapka Chrome browser open hote hi band ho raha hai, to iska reason yehi hai.
 
-Ye file sirf App Login ke liye use karni hai aur 100% working hai.
+Isko fix karne ke liye
 
-Dhyan rahe ki regular file me App Login disable kar diya gaya hai. Agar aapko App Login use karna hai, to sirf App Login.exe ka hi use kare. Iske through App Login bina kisi issue ke properly kaam karega
+1. Gadar folder open karein.
+2. Dekhein ki ChromeDriver ZIP file 0 KB ki to nahi hai.
+3. Agar 0 KB ki file hai, to usse delete kar dein.
+4. Uske baad software ko restart karein.
 
-Thanks
+Software automatically naya ChromeDriver download kar lega. Iske baad issue fix ho jayega aur Chrome browser open hote hi band nahi hoga. Isse Brave browser ka issue bhi fix ho jayega
