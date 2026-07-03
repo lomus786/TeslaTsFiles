@@ -2,13 +2,4 @@ Important Booking Update
 
 Good morning
 
-Kuch users ke system me server se ChromeDriver 0 KB ka download ho raha hai. Agar aapka Chrome browser open hote hi band ho raha hai, to iska reason yehi hai.
-
-Isko fix karne ke liye
-
-1. Gadar folder open karein.
-2. Dekhein ki ChromeDriver ZIP file 0 KB ki to nahi hai.
-3. Agar 0 KB ki file hai, to usse delete kar dein.
-4. Uske baad software ko restart karein.
-
-Software automatically naya ChromeDriver download kar lega. Iske baad issue fix ho jayega aur Chrome browser open hote hi band nahi hoga. Isse Brave browser ka issue bhi fix ho jayega
+Manual Chrome aur Manual Edge dono karna padega. Abhi IP check kiya to purani files delete ho chuki hain. Isliye poora process dobara naye sir se karna padega. Kripya ek baar fir se process complete kar lijiye
