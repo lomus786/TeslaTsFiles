@@ -1,5 +1,13 @@
 Important Booking Update
 
-Good morning
+App login update kar diya gaya hai Ab latest version hi use karein tabhi proper kaam karega
 
-Manual Chrome aur Manual Edge dono karna padega. Abhi IP check kiya to purani files delete ho chuki hain. Isliye poora process dobara naye sir se karna padega. Kripya ek baar fir se process complete kar lijiye
+Aur jab app se token banayein to token ko random karne ke baad agar Passenger Submit par client IP aa jaye to us token ko send na karein
+
+Usi time apk ko uninstall karke turant reinstall karein phir naya token banayein Is process se aapka kaam proper hoga
+
+Jo token web (Edge aur Chrome) se banate hain aur jo app se banate hain dono me jis root se jana ho usi root se token banayein Usi train ka token banayein TQ ki jagah SL ya AC (jo bhi available ho) use karein
+
+Saath hi same name ka passenger add karein aur same gateway use karke token banayein Isse aapka form fasta nahi hoga
+
+Latest version hi use karein aur upar diye gaye points ko properly follow karein
