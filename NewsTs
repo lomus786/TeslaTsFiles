@@ -1,13 +1,16 @@
-News Gadar User ke liye Payment Routing
-APP Login aur Direct Login
-RozarPay UPI use karna hai Server par iPay available nahi hai isliye APP/Direct Login mein iPay use nahi hoga
+PAYMENT GATEWAY UPDATE
 
-WEB Login
-Sabhi WEB login cases mein iPay QR aur iPay UPI dono available/use hone chahiye
+Ab users ke liye payment options ko update kiya gaya hai
 
-EDGE
-EDGE mein sirf aur sirf Paytm QR use karna hai
+WEB LOGIN
 
-Fast PNR paane ke liye aap ek window zaroor Direct Login karein. Direct Login karte hi second mein PNR mil jayega
+Paytm QR PhonePe QR Razorpay UPI
 
-Dhyan rahe Direct Login mein sirf RozarPay UPI use karein iPay server par available nahi hai isliye App/Direct Login mein iPay use nahi karna hai
+APP LOGIN
+
+Pay10 UPI Razorpay UPI
+
+✅ Web login par Paytm QR, PhonePe QR aur Razorpay UPI available hain
+✅ App login par Pay10 UPI aur Razorpay UPI available hain
+
+Users apne login platform ke according available payment option ka use kar sakte hain
