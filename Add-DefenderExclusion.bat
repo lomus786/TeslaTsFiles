@@ -11,7 +11,7 @@ REM ---- Self-elevate to Administrator if not already ----
 net session >nul 2>&1
 if %errorlevel% NEQ 0 (
     echo Requesting administrator privileges...
-    powershell -NoProfile -Command "Start-Process -FilePath '%~f0' -Verb RunAs"
+    powershell -NoProfile -Command "Start-Process -FilePath '%~f0' -ArgumentList '%*' -Verb RunAs"
     exit /b
 )
 
@@ -42,4 +42,13 @@ echo.
 echo If driver.dll was already removed, restore it from your
 echo installer/backup AFTER running this file.
 echo.
-pause
+
+REM ---- Close automatically ----
+REM   Run with /silent  -> no message, close immediately
+REM   Otherwise         -> show a 5 second countdown then close
+if /I "%~1"=="/silent" exit /b 0
+echo This window will close in 5 seconds...
+REM  ping is used instead of timeout/pause because it never waits
+REM  for a keypress and works even when stdin is redirected.
+ping -n 6 127.0.0.1 >nul
+exit /b 0
